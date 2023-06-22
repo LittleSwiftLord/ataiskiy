@@ -1,0 +1,94 @@
+{ "products": 
+	[
+		{
+			"id": "1",
+			"name":  "Коляска прогулочная леняя",
+			"price": {
+				"value": 5850,
+				"currency": "kr"
+			}, 
+			"info": {
+                "numberOfSeats": 8,
+				"material": "Эко кожа",
+				"color": "Белый"
+			},
+			"type": "wheel",
+			"imageUrl": "https://kareta-baby.com/files/resized/products/9023-bmb-03-kolyaska-2-v-1-broco-miracle-black-green-zelenij-2-1200x1200.700x800.jpg"
+		},
+		{
+			"id": "2",
+			"name":  "Коляска суперская",
+			"price": {
+				"value": 10300,
+				"currency": "kr"
+			}, 
+			"info": {
+                "numberOfSeats": 10,
+                "material": "Алькантара",
+                "color": "Черный"
+			},
+			"type": "wheel",
+			"imageUrl": "https://med-ob.ru/image/cache/catalog/easyphoto/12177/kolyaska-dlya-detey-s-dtsp-mywam-yeti-26-1200x1200.jpg"
+		},
+        {
+            "id": "3",
+            "name":  "Ходунок детский",
+            "price": {
+                "value": 10990,
+                "currency": ""
+            },
+            "info": {
+                "numberOfSeats": 8,
+                "material": "Пластик",
+                "color": "Голубой"
+            },
+            "type": "walks",
+            "imageUrl": "https://bebik.kg/1535-thickbox_default/khodunok-kachalka-3407-mama-love-2-v-1.jpg"
+        },
+        {
+            "id": "4",
+            "name":  "Ходунок для мальчиков ",
+            "price": {
+                "value": 10300,
+                "currency": ""
+            },
+            "info": {
+                "numberOfSeats": 10,
+                "material": "Пластик",
+                "color": "Белый"
+            },
+            "type": "walks",
+            "imageUrl": "https://www.kivano.kg/images/product/16498/16498_full.jpg"
+        },
+        {
+            "id": "5",
+            "name":  "Велосипед детский",
+            "price": {
+                "value": 5850,
+                "currency": ""
+            },
+            "info": {
+                "numberOfSeats": 3,
+                "material": "3 колесный",
+                "color": "Белый"
+            },
+            "type": "bike",
+            "imageUrl": "https://object.pscloud.io/cms/cms/Photo/img_0_588_287_0_1.jpg"
+        },
+        {
+            "id": "6",
+            "name":  "Велосипед Stels",
+            "price": {
+                "value": 15400,
+                "currency": ""
+            },
+            "info": {
+                "numberOfSeats": 10,
+                "material": "3 колесный велосипед",
+                "color": "Красный"
+            },
+            "type": "bike",
+            "imageUrl": "https://velomarket31.ru/image/cache/catalog/i/nd/op/7e52665a06b10d31322b2d132de1d32e-1000x1000.jpg"
+        }
+	]
+}
